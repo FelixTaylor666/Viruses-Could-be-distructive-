@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\obj\Debug\Discord Nitro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\obj\Debug\Discord Nitro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\bin\Debug\Anti-Virus NEW 2024!.exe.config
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\bin\Debug\Anti-Virus NEW 2024!.exe
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\bin\Debug\Anti-Virus NEW 2024!.pdb
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\obj\Debug\Anti-Virus NEW 2024!.exe
+C:\Users\User\Desktop\Unity\Discord Nitro\Discord Nitro\obj\Debug\Anti-Virus NEW 2024!.pdb
